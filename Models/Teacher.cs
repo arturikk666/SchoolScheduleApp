@@ -1,4 +1,5 @@
-﻿namespace _111.Models
+﻿//привет
+namespace _111.Models
 {
     public class Teacher
     {
