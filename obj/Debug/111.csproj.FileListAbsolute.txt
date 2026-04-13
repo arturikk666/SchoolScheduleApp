@@ -93,3 +93,5 @@ C:\Users\artur\OneDrive\Desktop\Учеба\Практика\будилов\111\1
 C:\Users\artur\OneDrive\Desktop\Учеба\Практика\будилов\111\111\bin\Debug\zh-Hans\Microsoft.Data.SqlClient.resources.dll
 C:\Users\artur\OneDrive\Desktop\Учеба\Практика\будилов\111\111\bin\Debug\zh-Hant\Microsoft.Data.SqlClient.resources.dll
 C:\Users\artur\OneDrive\Desktop\Учеба\Практика\будилов\111\111\obj\Debug\111.csproj.Up2Date
+C:\Users\artur\OneDrive\Desktop\Учеба\Практика\будилов\111\111\SchoolScheduleApp\obj\Debug\111.exe
+C:\Users\artur\OneDrive\Desktop\Учеба\Практика\будилов\111\111\SchoolScheduleApp\obj\Debug\111.pdb
